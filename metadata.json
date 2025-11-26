@@ -1,0 +1,7 @@
+{
+  "name": "GeoNarrator AR",
+  "description": "An AR-style photo tourism app. Take a photo of a landmark, identify it with AI, fetch real-time history, and listen to an audio guide.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
